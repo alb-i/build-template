@@ -52,7 +52,7 @@
 
         # dev tools
         devenv.packages.aarch64-darwin.devenv
-        mitmproxy
+        #mitmproxy
         cfssl
         dive
         graphviz
