@@ -7,7 +7,7 @@
         nixpkgs.url = "github:NixOS/nixpkgs";
 
         sbt.url = "github:zaninime/sbt-derivation";
-        bt.inputs.nixpkgs.follows = "nixpkgs";
+        sbt.inputs.nixpkgs.follows = "nixpkgs";
     };
 
 
